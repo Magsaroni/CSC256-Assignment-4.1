@@ -1,0 +1,1 @@
+I had a small problem that I showed in the "slideshow" screenshots I took. I managed to get the slideshow buttons and such down, but for some reason the other 3 pictures I had added to the slideshow did not show up, only the first one.
